@@ -1,0 +1,43 @@
+.hero{
+    text-align: center;
+    background-image: linear-gradient(#ffff, #DEF6F6);
+    position: relative;
+}
+
+.hero_text{
+    text-align: center;
+    padding: 7% 20% 1%;
+    font-size: 5vw;
+    font-weight: bold;
+    color: #223447;
+}
+
+.hero_subtext{
+    text-align: center;
+    padding: 0 15%;
+}
+
+.btn{
+    background-image: linear-gradient(to left,#4BD6B6, #4ED8DF);
+    color: #ffffff;
+    margin: 3%;
+}
+
+#hero_img{
+    height: 400px;
+    margin: 2% 10%;
+    position: relative;
+    z-index: 1;
+}
+
+.rect{
+    width: 15%;
+    position: absolute;
+}
+#rect1{
+    bottom: 5%;
+    left: 15%;
+}
+#rect2{
+    right: 15%;
+}
